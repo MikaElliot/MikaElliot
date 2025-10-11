@@ -2,9 +2,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20%" />
   <h3> Fullstack Web Developer • Tech Analyst </h3>
-    **I am <span style="color:#00FF88">Mika Elliot</span>**<br>
-    **Creative Developer & Tech Analyst** passionate about cutting-edge technologies. <br>
+  <p>
+    I am <img src="https://via.placeholder.com/150x30/00FF88/000000?text=Mika+Elliot" alt="Mika Elliot" /><br>
+    Creative Developer & Tech Analyst** passionate about cutting-edge technologies. <br>
     My mission: **Lauch my own startup** and make a name in the web industry.
+  </p>
 </div>
 
 <div align="center">
