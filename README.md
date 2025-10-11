@@ -33,14 +33,12 @@
 ### ➡️ Frontend
 <div>
   
-![Css](https://img.shields.io/badge/Css-3457A4?style=for-the-badge&logo=css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFAE00?style=for-the-badge&logo=javacript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-030712?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 </div>
 
