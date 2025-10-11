@@ -9,24 +9,11 @@
   - 🌍 From <strong>Madagascar</strong>. And Open to collaboration. <br>
   - My Goal: <strong>Lauch my own startup</strong> and make a name in the web industry.
   </p>
+  <br>
+<em>" For me, bugs are closed doors, knowledge is the key, and programming is the castle that holds them all. "</em>
+  
 <img src="https://img.shields.io/badge/🃏 Creative-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Analytic-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Adaptive-F53400?style=flat-square" />
 </div>
-<hr>
-
-## 💬 Let's Connect
-<p>
-  <a href="mailto:mikaramiandrarivo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E25634?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mika-elliot-ramiandrarivo-06852032a/">
-    <img src="https://img.shields.io/badge/LinkedIn-3465A4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://web.facebook.com/mika.ramiandrarivo">
-    <img src="https://img.shields.io/badge/Facebook-343AA4?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://mikaelliot.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-E23E34?style=for-the-badge&logo=firefox&logoColor=white" />
-  <hr>
 
     ------
 ## Used Technologies
@@ -41,6 +28,7 @@
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 </div>
+<hr>
 
 ### ➡️ Backend
 <div>
@@ -53,6 +41,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   
 </div>
+<hr>
   
 ### ➡️ Databases & ORM
 <div>
@@ -62,6 +51,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
   
 </div>
+<hr>
 
 ### ➡️ Design & Tools
 <div>
@@ -75,6 +65,19 @@
 </div>
 
       ---------
-<em>" For me, bugs are closed doors, knowledge is the key, and programming is the castle that holds them all. "</em>
+## 💬 Let's Connect
+<p>
+  <a href="mailto:mikaramiandrarivo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E25634?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mika-elliot-ramiandrarivo-06852032a/">
+    <img src="https://img.shields.io/badge/LinkedIn-3465A4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/mika.ramiandrarivo">
+    <img src="https://img.shields.io/badge/Facebook-343AA4?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://mikaelliot.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-E23E34?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
+
