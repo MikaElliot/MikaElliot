@@ -25,10 +25,11 @@
     <img src="https://img.shields.io/badge/Facebook-343AA4?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://mikaelliot.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-E23E34?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-E23E34?style=solcial&logo=firefox&logoColor=white" />
 
       ---------
-## **Technologies utilisées**
+      
+## Technologies utilisées**
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
 
