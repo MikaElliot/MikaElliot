@@ -45,7 +45,7 @@
 <div>
 <div>
   
-![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javacript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFAE00?style=for-the-badge&logo=javacript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
@@ -77,20 +77,32 @@
 </div>
   
 ### 🗃️ Databases & ORM
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=vue.js&logoColor=white)
+<div>
+  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  
+</div>
 
 ### 🗃️ Design & Tools
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=vue.js&logoColor=white)
+<div>
+  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-Illustrator&logoColor=white)
+
+</div>
+<div>
+  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Axure](https://img.shields.io/badge/Axure-FF5C5C?style=for-the-badge&logo=axure&logoColor=white)
+
+</div>
+<div>
+  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
 
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
 - 🖥️ ExpressJs, Codelgniter, Symfony, Django, Firebase, Next, Prisma
