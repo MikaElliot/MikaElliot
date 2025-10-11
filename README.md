@@ -15,7 +15,7 @@
   <br>
 </div>
 
-    ------
+<hr>
 ## Used Technologies
 ### ➡️ Frontend
 <div>
@@ -28,7 +28,6 @@
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 </div>
-<hr>
 
 ### ➡️ Backend
 <div>
@@ -41,7 +40,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   
 </div>
-<hr>
   
 ### ➡️ Databases & ORM
 <div>
@@ -51,7 +49,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
   
 </div>
-<hr>
 
 ### ➡️ Design & Tools
 <div>
@@ -64,7 +61,7 @@
 
 </div>
 
-      ---------
+<hr>
 ## 💬 Let's Connect
 <p>
   <a href="mailto:mikaramiandrarivo@gmail.com">
