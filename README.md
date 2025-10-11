@@ -7,11 +7,10 @@
   </div>
   
 <img src="https://img.shields.io/badge/🃏 Creative-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Analytic-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Adaptive-F53400?style=flat-square" />
-- 🌍 Basé à **Madagascar**, mais ouvert à toutes les opportunités.
-  
+- 🌍 From **Madagascar**. And Open to collaboration.
+- ![Location](https://img.shields.io/badge/🌍_Madagascar-9595EA?style=for-the-badge&logo=location&logoColor=white)
   <p>
-    
-    My mission: **Lauch my own startup** and make a name in the web industry.
+    My Goal: **Lauch my own startup** and make a name in the web industry.
   </p>
 </div>
 
