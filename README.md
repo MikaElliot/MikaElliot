@@ -33,9 +33,10 @@
 ### 🎨 Frontend Technologies
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F57900?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=javascript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=javascript&logoColor=white)
 
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
