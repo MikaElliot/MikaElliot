@@ -12,8 +12,9 @@
 <img src="https://img.shields.io/badge/🃏 Creative-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Analytic-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Adaptive-F53400?style=flat-square" />
 </div>
 <hr>
+
 ## 💬 Let's Connect
-<p align="center">
+<p>
   <a href="mailto:mikaramiandrarivo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
