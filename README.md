@@ -30,7 +30,7 @@
 
     ------
 ## Used Technologies
-### ![](https://img.shields.io/badge/-8A2BE2?style=for-the-badge&logo=lightning&logoColor=white) Frontend Technologies
+### <img src="https://img.shields.io/badge/🖥️-00FF00?style=for-the-badge&logo=lightning&logoColor=white" /> Frontend Technologies
 ![Javascript](https://img.shields.io/badge/JavaScript-F57900?style=for-the-badge&logo=javascript&logoColor=white)
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
