@@ -18,7 +18,7 @@
 <hr>
 
 
-## Technologies used
+## 💻 Technologies used
 <div>
   
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -77,3 +77,5 @@
     <img src="https://img.shields.io/badge/Portfolio-E23E34?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
+
+<hr>
