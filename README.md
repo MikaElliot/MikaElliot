@@ -1,12 +1,11 @@
 
-<h1 align="center">👋 Hey there, I'm Mika Elliot</h1>
-<h3 align="center">Fullstack Web Developer • Designer</h3>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Rightheous&size=35&center=true&width=500&height=70&duration=4000&lines=👋+Hey+there!;+I'm+Mika+Elliot;+Welcome+to+My+Github+profile!;Let's+work+together!">
+  </h1>
+  <h3> Fullstack Web Developer • Designer </h3>
+</div>
 
-<p>
-  🥈 Front-end developpement, UI design, et integration. </br>
-  🥈 En constante apprentissage du monde 3D du librairie **three.js** et du design interactive. </br>
-  🥉 Respect du clean code, utilisation du design pattern (php et javascript) et application du prinicpe SOLID. </br>
-</p>
       --------- 
 ## **Technologies utilisées**
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
