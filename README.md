@@ -30,7 +30,7 @@
       ---------
       
 ## Used Technologies
-![Javascript](https://img.shields.io/badge/JavaScript-F57900?style=plastic&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/JavaScript-F57900?style=for-the-badge&logo=javascript&logoColor=white)
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
 
