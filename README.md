@@ -30,7 +30,29 @@
 
     ------
 ## Used Technologies
-### <img src="https://img.shields.io/badge/🖥️-00FF00?style=for-the-badge&logo=lightning&logoColor=white" /> Frontend Technologies
+### <!-- lightning-neon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Éclair néon vert</title>
+  <desc id="desc">Icône d'un éclair stylisé avec un dégradé vert fluo</desc>
+
+  <!-- Gradient -->
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7CFF00"/>
+      <stop offset="50%" stop-color="#3EFF00"/>
+      <stop offset="100%" stop-color="#00FF66"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Lightning shape -->
+  <path d="M20 2 L46 2 L28 30 L42 30 L12 62 L28 34 L20 34 Z"
+        fill="url(#g1)"
+        stroke="#00FF66"
+        stroke-width="1"
+        stroke-linejoin="round"
+        transform="translate(0,0) scale(0.95)" />
+</svg>
+ Frontend Technologies
 ![Javascript](https://img.shields.io/badge/JavaScript-F57900?style=for-the-badge&logo=javascript&logoColor=white)
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
