@@ -57,13 +57,24 @@
 </div>
 
 ### 🍒 Backend
-![Express](https://img.shields.io/badge/Express.js-181818?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<div>
+  
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-2B817D?style=for-the-badge&logo=symfony&logoColor=white)
+
+</div>
+<div>
+  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  
+</div>
+<div>
+  
+![Express](https://img.shields.io/badge/Express.js-181818?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- 🪄 Photoshop, Illustrator, Figma, Blender, Axure
+  
+</div>
   
 ### 🗃️ Databases & ORM
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -73,7 +84,7 @@
 ![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### 🗃️ Databases & Tools
+### 🗃️ Design & Tools
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -81,6 +92,7 @@
 ![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=vue.js&logoColor=white)
 
+- 🪄 Photoshop, Illustrator, Figma, Blender, Axure
 - 🖥️ ExpressJs, Codelgniter, Symfony, Django, Firebase, Next, Prisma
 - 🪄 Adobe XD, Adobe Substance Painter, Unity
 
