@@ -18,7 +18,7 @@
 <hr>
 
 
-## Used Technologies
+## Technologies used
 <div>
   
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -41,7 +41,6 @@
   
 </div>
   
-### ➡️ Databases & ORM
 <div>
   
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
