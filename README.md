@@ -33,7 +33,7 @@
 ### 🎨 Frontend
 <div>
   
-![Css](https://img.shields.io/badge/Css-151B23?style=for-the-badge&logo=css&logoColor=white&labelColor=FF00EF&color=FFF00)
+![Css](https://img.shields.io/badge/Css-3457A4?style=for-the-badge&logo=css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 </div>
