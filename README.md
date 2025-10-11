@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&delay=1000&duration=4000&lines=👤+who+Am+I?;+I'm+Mika+Elliot;+Fullstack+Developper;+Tech+Analyst;&color=9595EA">
   </div>
   
-<img src="https://img.shields.io/badge/🃏 Creative_Developer-#F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Creative_Developer-#F53400?style=flat-square" /> 🃏 Créatif, Analytique, et Adaptif.
+<img src="https://img.shields.io/badge/🃏 Creative_Developer-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Creative_Developer-F53400?style=flat-square" /> 🃏 Créatif, Analytique, et Adaptif.
 - 🌍 Basé à **Madagascar**, mais ouvert à toutes les opportunités.
   
   <p>
