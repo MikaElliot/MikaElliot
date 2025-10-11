@@ -1,26 +1,15 @@
-
 <div align="center">
-  <table cellspacing="0" cellpadding="0" style="border: none; border-spacing: 0;">
-    <tr>
-      <td width="75%" colspan="2" valign="bottom" align="center">
-          <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&duration=4000&lines=👋+Hey+there!;+I'm+Mika+Elliot;Welcome+to+My+github+profile!;Let's+work+together!;&color=9595EA">
-      </td>
-    </tr>
-    <tr>
-      <td width="75%" align="center">
-        <h3> Fullstack Web Developer • Tech Analyst </h3>
-          <p>
-            I am <strong>Mika Elliot</strong><br>
-            Creative Developer & Tech Analyst** passionate about cutting-edge technologies. <br>
-            My mission: **Lauch my own startup** and make a name in the web industry.
-          </p>
-      </td>
-      <td width="50%">
-        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" />
-      </td>
-    </tr>
-  </table>
-  </div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&duration=4000&lines=👋+Hey+there!;+I'm+Mika+Elliot;Welcome+to+My+github+profile!;Let's+work+together!;&color=9595EA">
+<hr>
+<h3> Fullstack Web Developer • Tech Analyst </h3>
+<p>
+  I am <strong>Mika Elliot</strong><br>
+  Creative Developer & Tech Analyst** passionate about cutting-edge technologies. <br>
+  My mission: **Lauch my own startup** and make a name in the web industry.
+</p>
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" />
+</div>
 
   <div style="display: inline-block;">
     - Test
