@@ -16,6 +16,8 @@
 </div>
 
 <hr>
+
+
 ## Used Technologies
 ### ➡️ Frontend
 <div>
@@ -62,6 +64,8 @@
 </div>
 
 <hr>
+
+
 ## 💬 Let's Connect
 <p>
   <a href="mailto:mikaramiandrarivo@gmail.com">
