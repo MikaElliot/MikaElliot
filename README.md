@@ -30,12 +30,13 @@
 
     ------
 ## Used Technologies
-### Frontend Technologies
-<svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M13 2L3 14H11L9 22L21 10H13L15 2Z" fill="#39FF14" stroke="#39FF14" stroke-width="1.5" stroke-linejoin="round"/>
-</svg>
-
+### 🎨 Frontend Technologies
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F57900?style=for-the-badge&logo=javascript&logoColor=white)
+
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
 
