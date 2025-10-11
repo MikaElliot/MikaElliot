@@ -1,18 +1,16 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20%" />
+  
+   <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&duration=4000&lines=👋+Hey+there!;+I'm+Mika+Elliot;Welcome+to+My+github+profile!;Let's+work+together!;&color=9595EA">
+  </h1>
   <h3> Fullstack Web Developer • Tech Analyst </h3>
   <p>
     I am <strong>Mika Elliot</strong><br>
     Creative Developer & Tech Analyst** passionate about cutting-edge technologies. <br>
     My mission: **Lauch my own startup** and make a name in the web industry.
   </p>
-</div>
-
-<div align="center">
-   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&duration=4000&lines=👋+Hey+there!;+I'm+Mika+Elliot;Welcome+to+My+github+profile!;Let's+work+together!;&color=9595EA">
-  </h1>
 </div>
 
       --------- 
