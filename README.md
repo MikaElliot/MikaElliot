@@ -1,10 +1,13 @@
 # 👨‍💻 Salut, Je suis Mika Elliot
 
-## ⚪ ** Developper web & Designer **
-- 🥇 Front-end developpement, UI design, et integration
-- 🥈 En constante apprentissage du monde 3D du librairie **three.js** et du design interactive.
-- 🥉 Respect du clean code, utilisation du design pattern (php et javascript) et application du prinicpe SOLID
+<h1 align="center">👋 Hey there, I'm Mika Elliot</h1>
+<h3 align="center">Fullstack Web Developer • Designer</h3>
 
+<ul>
+  <li> - 🥈 Front-end developpement, UI design, et integration. </li>
+  <li> - 🥈 En constante apprentissage du monde 3D du librairie **three.js** et du design interactive. </li>
+  <li>- 🥉 Respect du clean code, utilisation du design pattern (php et javascript) et application du prinicpe SOLID. </li>
+</ul>
       --------- 
 ## **Technologies utilisées**
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
