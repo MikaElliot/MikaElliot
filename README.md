@@ -22,6 +22,15 @@
   </table>
   </div>
 
+  <div style="display: inline-block;">
+    - Test
+    - TestAgain
+  </div>
+  <div style="display: inline-block">
+    - Right
+    - Right2
+  </div>
+
       --------- 
 ## **Technologies utilisées**
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
