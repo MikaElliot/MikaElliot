@@ -26,10 +26,10 @@
   </a>
   <a href="https://mikaelliot.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-E23E34?style=for-the-badge&logo=firefox&logoColor=white" />
-
-      ---------
+  <hr>
       
 ## Used Technologies
+### ![Power](https://img.shields.io/badge/_Power-8A2BE2?style=for-the-badge&logo=lightning&logoColor=white) Frontend Technologies
 ![Javascript](https://img.shields.io/badge/JavaScript-F57900?style=for-the-badge&logo=javascript&logoColor=white)
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
