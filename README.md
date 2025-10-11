@@ -19,7 +19,6 @@
 
 
 ## Used Technologies
-### ➡️ Frontend
 <div>
   
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -31,7 +30,6 @@
 
 </div>
 
-### ➡️ Backend
 <div>
   
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -52,7 +50,6 @@
   
 </div>
 
-### ➡️ Design & Tools
 <div>
   
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
