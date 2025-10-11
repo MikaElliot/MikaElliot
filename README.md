@@ -16,7 +16,7 @@
 ## 💬 Let's Connect
 <p>
   <a href="mailto:mikaramiandrarivo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-E25634?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mika-elliot-ramiandrarivo-06852032a/">
     <img src="https://img.shields.io/badge/LinkedIn-3465A4?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Facebook-343AA4?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://mikaelliot.vercel.app">
-    <img src="https://img.shields.io/badge/🌍_Portfolio-55E234?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-E23E34?style=for-the-badge&logo=firefox&logoColor=white" />
 
       ---------
 ## **Technologies utilisées**
