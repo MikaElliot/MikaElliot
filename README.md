@@ -31,6 +31,10 @@
     ------
 ## Used Technologies
 ### ![Éclair néon](./assets/lightning-neon.svg) Frontend Technologies
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13 2L3 14H11L9 22L21 10H13L15 2Z" fill="#39FF14" stroke="#39FF14" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>
+
 ![Javascript](https://img.shields.io/badge/JavaScript-F57900?style=for-the-badge&logo=javascript&logoColor=white)
 - 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
