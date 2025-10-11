@@ -3,10 +3,9 @@
     <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20%" />
   </div>
   
-      ---------
-## 👤 who Am I ?
+## 
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&duration=4000&lines=👋+Hey+there!;+I'm+Mika+Elliot;Welcome+to+My+github+profile!;Let's+work+together!;&color=9595EA">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&delay=1000&duration=4000&lines=👤+who+Am+I?;+I'm+Mika+Elliot;+Fullstack+Developper;+Tech+Analyst;&color=9595EA">
   </div>
   
 - 🃏 Je suis un developpeur passionné.
