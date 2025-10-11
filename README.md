@@ -30,7 +30,7 @@
 
     ------
 ## Used Technologies
-### 🎨 Frontend
+### ➡️ Frontend
 <div>
   
 ![Css](https://img.shields.io/badge/Css-3457A4?style=for-the-badge&logo=css&logoColor=white)
@@ -44,7 +44,7 @@
 
 </div>
 
-### 🍒 Backend
+### ➡️ Backend
 <div>
   
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -56,7 +56,7 @@
   
 </div>
   
-### 🗃️ Databases & ORM
+### ➡️ Databases & ORM
 <div>
   
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -65,7 +65,7 @@
   
 </div>
 
-### 🗃️ Design & Tools
+### ➡️ Design & Tools
 <div>
   
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
@@ -76,12 +76,7 @@
 
 </div>
 
-- 🪄 Photoshop, Illustrator, Figma, Blender, Axure
-- 🖥️ ExpressJs, Codelgniter, Symfony, Django, Firebase, Next, Prisma
-- 🪄 Adobe XD, Adobe Substance Painter, Unity
-
       ---------
 🎖️🎖️ *" For me, bugs are closed doors, knowledge is the key, and programming is the castle that holds them all. "* 🎖️🎖️
-- ![Location](https://img.shields.io/badge/🌍_Madagascar-9595EA?style=for-the-badge&logo=location&logoColor=white)
   </a>
 </p>
