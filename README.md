@@ -30,18 +30,39 @@
 
     ------
 ## Used Technologies
-### 🎨 Frontend Technologies
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=javascript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=javascript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=javascript&logoColor=white)
+### 🎨 Frontend
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=vue.js&logoColor=white)
 
-- 🖥️ Html, Css, Sass, Bootstrap, Tailwindcss, TypeScript, Vue, React, Laravel
+### 🍒 Backend
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=vue.js&logoColor=white)
 - 🪄 Photoshop, Illustrator, Figma, Blender, Axure
+  
+### 🗃️ Databases & ORM
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=vue.js&logoColor=white)
 
-## **Technologies en apprentissage**
+### 🗃️ Databases & Tools
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-34E966?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-6BCA08?style=for-the-badge&logo=vue.js&logoColor=white)
+
 - 🖥️ ExpressJs, Codelgniter, Symfony, Django, Firebase, Next, Prisma
 - 🪄 Adobe XD, Adobe Substance Painter, Unity
 
