@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&duration=4000&lines=👋+Hey+there!;+I'm+Mika+Elliot;Welcome+to+My+github+profile!;Let's+work+together!;&color=00FF88">
   </h1>
   <h3> Fullstack Web Developer • Designer </h3>
-  <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumk0/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
 </div>
 
       --------- 
