@@ -22,7 +22,17 @@
 🎖️🎖️ *" For me, bugs are closed doors, knowledge is the key, and programming is the castle that holds them all. "* 🎖️🎖️
 
 ## 💬 Let's Connect
-[!Linkedin](https://img.icon8.com/color/24/000000/domain.png)](https://www.linkedin.com/in/mika-elliot-ramiandrarivo-06852032a/) 
-[!Facebook](https://cdn.jsdeliver.net/npm/simple-icons@v9/icons/facebook.svg)][https://web.facebook.com/mika.ramiandrarivo] 
-[!Email](https://img.icon8.com/color/24/000000/email.png)](mailto:mikaramiandrarivo@gmail.com
-Portfolio: *coming soon*
+<p align="center">
+  <a href="mailto:mikaramiandrarivo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mika-elliot-ramiandrarivo-06852032a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/mika.ramiandrarivo">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/mika.ramiandrarivo">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+</p>
