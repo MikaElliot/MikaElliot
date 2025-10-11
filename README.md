@@ -1,6 +1,6 @@
 
 <div align="center">
-  <table border="0">
+  <table style="border: none">
     <tr>
       <td width="75%" colspan="2" valign="bottom" align="center">
           <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&duration=4000&lines=👋+Hey+there!;+I'm+Mika+Elliot;Welcome+to+My+github+profile!;Let's+work+together!;&color=9595EA">
