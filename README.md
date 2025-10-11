@@ -10,9 +10,8 @@
   - My Goal: <strong>Lauch my own startup</strong> and make a name in the web industry.
   </p>
   <br>
-<img src="https://img.shields.io/badge/🃏 Creative-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Analytic-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Adaptive-F53400?style=flat-square" />
-  <br>
 <em>" For me, bugs are closed doors, knowledge is the key, and programming is the castle that holds them all. "</em>
+  <br>
   <br>
 </div>
 
@@ -81,4 +80,3 @@
     <img src="https://img.shields.io/badge/Portfolio-E23E34?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
-
