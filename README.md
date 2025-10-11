@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20%" />
   </div>
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&delay=2000&duration=2000&lines=👤+who+Am+I?;+I'm+Mika+Elliot;+Fullstack+Developper;+Tech+Analyst;+Designer;&color=9595EA">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&delay=4000&duration=3000&lines=👤+who+Am+I?;+I'm+Mika+Elliot;+Fullstack+Developper;+Tech+Analyst;+Designer;&color=9595EA">
   </div>
   <p>
   - 🌍 From <strong>Madagascar</strong>. And Open to collaboration. <br>
