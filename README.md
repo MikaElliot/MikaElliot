@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&width=500&height=70&delay=1000&duration=4000&lines=👤+who+Am+I?;+I'm+Mika+Elliot;+Fullstack+Developper;+Tech+Analyst;+Designer;&color=9595EA">
   </div>
   <p>
-  - 🌍 From **Madagascar**. And Open to collaboration. <br>
-  - My Goal: **Lauch my own startup** and make a name in the web industry.
+  - 🌍 From <strong>Madagascar</strong>. And Open to collaboration. <br>
+  - My Goal: <strong>Lauch my own startup</strong> and make a name in the web industry.
   </p>
 <img src="https://img.shields.io/badge/🃏 Creative-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Analytic-F53400?style=flat-square" /> &nbsp; &nbsp; <img src="https://img.shields.io/badge/🃏 Adaptive-F53400?style=flat-square" />
 </div>
@@ -75,6 +75,6 @@
 </div>
 
       ---------
-🎖️🎖️ *" For me, bugs are closed doors, knowledge is the key, and programming is the castle that holds them all. "* 🎖️🎖️
+<em>" For me, bugs are closed doors, knowledge is the key, and programming is the castle that holds them all. "</em>
   </a>
 </p>
