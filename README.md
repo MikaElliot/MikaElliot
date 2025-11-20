@@ -21,16 +21,16 @@
 ## 💻 Technologies used
 <div>
   
-![TypeScript](https://img.shields.io/badge/TypeScript-D3D7CF?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FEFEFE?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-5DB208?style=for-the-badge&logo=vue.js&logoColor=white)
 
 </div>
 
 <div>
   
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FEFEFE?style=for-the-badge&logo=next.js&logoColor=white)
   
 </div>
   
