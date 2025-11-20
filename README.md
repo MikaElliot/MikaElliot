@@ -21,7 +21,7 @@
 ## 💻 Technologies used
 <div>
   
-![TypeScript](https://img.shields.io/badge/TypeScript-6BAAED?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3465A4?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-3465A4?style=for-the-badge&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-5DB208?style=for-the-badge&logo=vue.js&logoColor=white)
 
@@ -30,22 +30,22 @@
 <div>
   
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-2E3436?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-3465A4?style=for-the-badge&logo=next.js&logoColor=white)
   
 </div>
   
 <div>
   
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-EBB117?style=for-the-badge&logo=firebase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-793D83?style=for-the-badge&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-#793D83?style=for-the-badge&logo=firebase&logoColor=white)
   
 </div>
 
 <div>
   
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-3465A4?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Axure](https://img.shields.io/badge/Axure-FF5C5C?style=for-the-badge&logo=axure&logoColor=white)
+![Axure](https://img.shields.io/badge/Axure-F24E1E?style=for-the-badge&logo=axure&logoColor=white)
 
 </div>
 
