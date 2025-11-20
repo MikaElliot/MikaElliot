@@ -36,8 +36,8 @@
   
 <div>
   
-![MariaDB](https://img.shields.io/badge/MariaDB-793D83?style=for-the-badge&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-#793D83?style=for-the-badge&logo=firebase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-3465A4?style=for-the-badge&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F69B2D?style=for-the-badge&logo=firebase&logoColor=white)
   
 </div>
 
