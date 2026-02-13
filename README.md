@@ -7,12 +7,14 @@
 <div align="center"
  
 ```
- ███╗   ███╗██╗██╗  ██╗ █████╗
+ ███╗   ███╗██╗██╗  ██╗ █████╗██║██║██╔═██╗ ██╔══██║
+ ██║ ╚═╝ ██║██║███████║██║██═██╗
+ ████╗ ████║██║██║ ██╔╝██╔══██╗░░▒▓▒░  ░▒  ║  ·  ·  ·
+  ·  ·  ·  ║  ░▒▓█████████║╚██╔╝█║██║██║  ██╗██║  ██║
+ ██╔████╔█╔╝ ███████║█╗   ███╗██╗██╗  ██╗ █████╗
  ████╗ ████║██║██║ ██╔╝██╔══██╗
- ██╔████╔██║██║█████╔╝ ███████║
- ██║╚██╔╝██║██║██╔═██╗ ██╔══██║
- ██║ ╚═╝ ██║██║██║  ██╗██║  ██║
- ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+ ██╔████╔██╚═╝     ╚═╝╚═╝╚═╝██║██║██  
+ ╚═╝╚═╝  ╚═╝
 ```
 </div>
 
@@ -95,16 +97,6 @@ Then I build it, test it, and ship it.
 ![Goal](https://img.shields.io/badge/Goal-Launch%20my%20own%20startup-0d1117?style=flat-square&logoColor=7EB8A4)
 
 </div>
-
-<div align="center">
-
-```
-  ·  ·  ·  ╔══════════════════╗  ·  ·  ·
-  ·  ·  ·  ║ ▒░  ░░▒▓▒░  ░▒  ║  ·  ·  ·
-  ·  ·  ·  ║  ░▒▓████████▓▒░  ║  ·  ·  ·
-  ·  ·  ·  ║ ▒░  ░░▒▓▒░  ░▒  ║  ·  ·  ·
-  ·  ·  ·  ╚══════════════════╝  ·  ·  ·
-```
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=13&center=true&width=500&height=24&duration=2200&pause=900&lines=Scaffolding+project...;Compiling+ideas...;Pushing+to+production...;Shipped.&color=7EB8A4&repeat=true" />
 
