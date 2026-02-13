@@ -34,8 +34,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
-![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF)
-![Axure](https://img.shields.io/badge/Axure-0d1117?style=flat-square&logo=axure&logoColor=F24E1E)
 
 ---
 
