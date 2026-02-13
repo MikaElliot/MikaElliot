@@ -43,15 +43,6 @@
 
 ---
 
-### A few things about me
-
-```yaml
-name:             Mika Elliot Ramiandrarivo
-quote: >
-  "For me, bugs are closed doors — knowledge is the key,
-  and programming is the castle that holds them all."
-```
-
 </br>
 
 ### How I approach problems
@@ -66,15 +57,21 @@ Then I build it, test it, and ship it.
 
 [![Email](https://img.shields.io/badge/Email-mikaramiandrarivo%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mikaramiandrarivo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mika%20Elliot-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mika-elliot-ramiandrarivo-06852032a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mikaelliot.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)](https://imika.vercel.app)
+[![Portfolio](https://img.shields.io/badge/imika.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)](https://imika.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-Mika%20Ramiandrarivo-0d1117?style=flat-square&logo=facebook&logoColor=1877F2)](https://web.facebook.com/mika.ramiandrarivo)
 
 ---
 
 <div align="center">
 
-*Every line of code I write is a step toward something bigger.*  
-*The startup isn't built yet — but the foundation is being laid.*
+### A few things about me
+
+```yaml
+name:             Mika Elliot Ramiandrarivo
+quote: >
+  "For me, bugs are closed doors — knowledge is the key,
+  and programming is the castle that holds them all."
+```
 
 ---
 
