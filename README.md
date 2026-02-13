@@ -17,9 +17,7 @@
 
 ### `mika-elliot` · Fullstack Developer · Madagascar 🌍
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=14&center=true&width=500&height=28&duration=2200&pause=900&lines=Scaffolding+project...;Compiling+ideas...;Pushing+to+production...;Shipped.&color=7EB8A4&repeat=true" />
-
-</br>
+---
 
 ### What I work with
 
