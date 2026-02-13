@@ -50,13 +50,13 @@ Open to collaborations, freelance projects, and ambitious ideas.
 
 ### GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelliott&show_icons=true&theme=transparent&hide_border=true&title_color=8A8ABA&icon_color=8A8ABA&text_color=C8C8D8&bg_color=00000000&hide_rank=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelliott&layout=compact&theme=transparent&hide_border=true&title_color=8A8ABA&text_color=C8C8D8&bg_color=00000000)
 
-</div>
+</div> -->
 
 ---
 
@@ -67,7 +67,7 @@ Open to collaborations, freelance projects, and ambitious ideas.
 [![Email](https://img.shields.io/badge/Email-mikaramiandrarivo%40gmail.com-1e1e2e?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mikaramiandrarivo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mika%20Elliot-1e1e2e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mika-elliot-ramiandrarivo-06852032a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mikaelliot.vercel.app-1e1e2e?style=flat-square&logo=vercel&logoColor=ffffff)](https://mikaelliot.vercel.app)
-[![Facebook](https://img.shields.io/badge/Facebook-Mika%20Ramiandrarivo-1e1e2e?style=flat-square&logo=facebook&logoColor=1877F2)](https://web.facebook.com/mika.ramiandrarivo)
+[![Facebook](https://img.shields.io/badge/Facebook-Mika%20Elliot-1e1e2e?style=flat-square&logo=facebook&logoColor=1877F2)](https://web.facebook.com/mika.elliot)
 
 </div>
 
