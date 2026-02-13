@@ -13,7 +13,7 @@
  ██║ ╚═╝ ██║██║██║  ██╗██║  ██║    ███████╗███████╗███████╗██║╚██████╔╝   ██║
  ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝
  
-<img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=13&center=true&width=500&height=24&duration=2200&pause=900&lines=Scaffolding+project...;Compiling+ideas...;Pushing+to+production...;Shipped.&color=7EB8A4&repeat=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=13&center=true&width=500&height=24&duration=2200&pause=900&lines=Scaffolding+project...;Compiling+ideas...;Pushing+to+production...;!Error.&color=EF2929&repeat=true" />
 
 ### `mika-elliot` · Fullstack Developer · Madagascar 🌍
 
