@@ -97,6 +97,22 @@ Then I build it, test it, and ship it.
 
 </div>
 
+<div align="center">
+
+```
+     *                   *                   *
+    /|\                 /|\                 /|\
+   / | \               / | \               / | \
+  /  |  \             /  |  \             /  |  \
+ /   |   \           /   |   \           /   |   \
+/    |    \_________/    |    \_________/    |    \
+|         |         |         |         |         |
+|   (o)   |   (o)   |   (o)   |   (o)   |   (o)   |
+|_________|_________|_________|_________|_________|
+|                                                  |
+|__________________________________________________|
+```
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=13&center=true&width=500&height=24&duration=2200&pause=900&lines=Scaffolding+project...;Compiling+ideas...;Pushing+to+production...;Shipped.&color=7EB8A4&repeat=true" />
 
 `mika-elliot` · Fullstack Developer · Madagascar 🌍
