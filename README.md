@@ -18,10 +18,9 @@
 ### `mika-elliot` · Fullstack Developer · Madagascar 🌍
 
 ---
+</div>
 
 ### What I work with
-
-**Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3B82F6)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
@@ -29,22 +28,14 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vue.js&logoColor=42D392)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
 
-**Backend**
-
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F)
 
-**Database & Cloud**
-
 ![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=C0765A)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-**DevOps & Tooling**
-
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-
-**Design**
 
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF)
@@ -91,4 +82,3 @@ Then I build it, test it, and ship it.
 ![Location](https://img.shields.io/badge/Based%20in-Madagascar-0d1117?style=flat-square&logoColor=7EB8A4)
 ![Goal](https://img.shields.io/badge/Goal-Launch%20my%20own%20startup-0d1117?style=flat-square&logoColor=7EB8A4)
 
-</div>
