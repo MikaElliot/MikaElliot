@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=DM+Mono&size=13&center=true&width=440&height=30&duration=2500&pause=1000&lines=Fullstack+Developer+%E2%80%A2+Tech+Analyst+%E2%80%A2+DevOps&color=8A8A9A&repeat=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=DM+Mono&size=13&center=true&width=440&height=30&duration=2500&pause=1000&lines=Fullstack+Developer+%E2%80%A2+Tech+Analyst+%E2%80%A2+DevOps&color=8A8A9A&repeat=false" />
 
 **`> whoami`**
 
