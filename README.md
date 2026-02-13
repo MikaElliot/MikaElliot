@@ -66,7 +66,7 @@ Open to collaborations, freelance projects, and ambitious ideas.
 
 [![Email](https://img.shields.io/badge/Email-mikaramiandrarivo%40gmail.com-1e1e2e?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mikaramiandrarivo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mika%20Elliot-1e1e2e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mika-elliot-ramiandrarivo-06852032a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mikaelliot.vercel.app-1e1e2e?style=flat-square&logo=vercel&logoColor=ffffff)](https://mikaelliot.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mikaelliot.vercel.app-1e1e2e?style=flat-square&logo=vercel&logoColor=ffffff)](https://imika.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-Mika%20Elliot-1e1e2e?style=flat-square&logo=facebook&logoColor=1877F2)](https://web.facebook.com/mika.elliot)
 
 </div>
