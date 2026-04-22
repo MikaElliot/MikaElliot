@@ -5,14 +5,15 @@
 **`> whoami`**
 
 <div align="center">
- 
+
+``` 
  ███╗   ███╗██╗██╗  ██╗ █████╗     ███████╗██╗     ██╗     ██╗ ██████╗ ████████╗
  ████╗ ████║██║██║ ██╔╝██╔══██╗    ██╔════╝██║     ██║     ██║██╔═══██╗╚══██╔══╝
  ██╔████╔██║██║█████╔╝ ███████║    █████╗  ██║     ██║     ██║██║   ██║   ██║
  ██║╚██╔╝██║██║██╔═██╗ ██╔══██║    ██╔══╝  ██║     ██║     ██║██║   ██║   ██║
  ██║ ╚═╝ ██║██║██║  ██╗██║  ██║    ███████╗███████╗███████╗██║╚██████╔╝   ██║
  ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝
- 
+ ```
 <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=13&center=true&width=500&height=24&duration=2200&pause=900&lines=Scaffolding+project...;Compiling+ideas...;Pushing+to+production...;Done.&color=8AE234&repeat=true" />
 
 ### `mika-elliot` · Fullstack Developer · Madagascar 🌍
@@ -60,9 +61,7 @@ Then I build it, test it, and ship it.
 
 ```yaml
 name:             Mika Elliot Ramiandrarivo
-quote: >
-  "For me, bugs are closed doors — knowledge is the key,
-  and programming is the castle that holds them all."
+quote: "For me, bugs are closed doors — knowledge is the key, and programming is the castle that holds them all."
 ```
 
 ---
