@@ -60,7 +60,7 @@ Then I build it, test it, and ship it.
 ### A few things about me
 
 ```yaml
-name:             Mika Elliot Ramiandrarivo
+name:  Mika Elliot Ramiandrarivo
 quote: "For me, bugs are closed doors — knowledge is the key, and programming is the castle that holds them all."
 ```
 
