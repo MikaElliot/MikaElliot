@@ -22,19 +22,19 @@
 
 ### System & Infrastructure
 
-[![System Skills](https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,bash&theme=light)](https://skillicons.dev)
+[![System Skills](https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,bash&theme=dark)](https://skillicons.dev)
 
 ### Backend & Data
 
-[![Backend Skills](https://skillicons.dev/icons?i=laravel,nodejs,postgres,mariadb,redis,firebase&theme=light)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=laravel,nodejs,postgres,mariadb,redis,firebase&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind&theme=light)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Tooling & Design
 
-[![Tooling Skills](https://skillicons.dev/icons?i=figma,git,vite&theme=light)](https://skillicons.dev)
+[![Tooling Skills](https://skillicons.dev/icons?i=figma,git,vite&theme=dark)](https://skillicons.dev)
 
 ---
 
