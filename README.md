@@ -1,7 +1,5 @@
 <div align="left">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=140&section=header&text=Mika-Elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=65)
-
 <div align="left">
 
 ![System Developer](https://img.shields.io/badge/System__Developer-0d1117?style=flat-square&logo=linux&logoColor=a78bfa&color=0d1117)
