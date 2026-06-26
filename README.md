@@ -53,6 +53,7 @@ now focused on system architecture, DevOps tooling, and scalable web solutions.
 
 ---
 
+
 ### How I work
 
 I build systems end-to-end — from low-level assembly to containerized production pipelines.
