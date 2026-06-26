@@ -1,16 +1,3 @@
----
-<div align="left">
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=140&section=header&text=Mika-Elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=65)
-
-<div align="left">
-
-![System Developer](https://img.shields.io/badge/System__Developer-0d1117?style=flat-square&logo=linux&logoColor=a78bfa&color=0d1117)
-![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=docker&logoColor=a78bfa&color=0d1117)
-![Fullstack](https://img.shields.io/badge/Fullstack-0d1117?style=flat-square&logo=typescript&logoColor=a78bfa&color=0d1117)
-
-</div>
-
 <div align="center">
 
 ███╗   ███╗██╗██╗  ██╗ █████╗     ███████╗██╗     ██╗     ██╗ ██████╗ ████████╗
@@ -21,6 +8,17 @@
 ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=13&center=true&width=500&height=24&duration=2200&pause=900&lines=Booting+system...;Mounting+volumes...;Pipeline+running...;Deployed.&color=8AE234&repeat=true" />
+</div>
+<div align="left">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=140&section=header&text=Mika-Elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=65)
+
+<div align="left">
+
+![System Developer](https://img.shields.io/badge/System__Developer-0d1117?style=flat-square&logo=linux&logoColor=a78bfa&color=0d1117)
+![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=docker&logoColor=a78bfa&color=0d1117)
+![Fullstack](https://img.shields.io/badge/Fullstack-0d1117?style=flat-square&logo=typescript&logoColor=a78bfa&color=0d1117)
+
 </div>
 
 **`> Building systems from assembly to production pipelines`**
