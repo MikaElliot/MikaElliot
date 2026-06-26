@@ -1,7 +1,16 @@
 ---
 <div align="left">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=header&text=mika-elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=55&desc=System%20Developer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Fullstack&descSize=13&descAlignY=80&descColor=8b949e)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=header&text=mika-elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=65)
+
+<div align="left">
+
+![System Developer](https://img.shields.io/badge/System_Developer-0d1f35?style=for-the-badge&logoColor=60a5fa&logo=linux&color=0d1f35)
+![DevOps](https://img.shields.io/badge/DevOps-0d1f35?style=for-the-badge&logoColor=60a5fa&logo=docker&color=0d1f35)
+![Fullstack](https://img.shields.io/badge/Fullstack-0d1f35?style=for-the-badge&logoColor=60a5fa&logo=typescript&color=0d1f35)
+![Open to work](https://img.shields.io/badge/Open_to_work-0d1f35?style=for-the-badge&logoColor=60a5fa&color=0d1f35)
+
+</div>
 
 <div align="center">
 
