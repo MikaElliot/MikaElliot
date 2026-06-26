@@ -2,6 +2,12 @@
 
 <div align="left">
 
+<!--
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=140&section=header&text=Mika-Elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=65)
+-->
+
+<h1 align="center"><span style="background:linear-gradient(90deg,#a78bfa,#60a5fa);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">M</span>ika-Elliot</h1>
+
 ![System Developer](https://img.shields.io/badge/System__Developer-0d1117?style=flat-square&logo=linux&logoColor=a78bfa&color=0d1117)
 ![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=docker&logoColor=a78bfa&color=0d1117)
 ![Fullstack](https://img.shields.io/badge/Fullstack-0d1117?style=flat-square&logo=typescript&logoColor=a78bfa&color=0d1117)
