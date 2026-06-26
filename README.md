@@ -26,6 +26,9 @@
 
 ### Backend & Data
 
+### Devops tools
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,&perline=3)
+
 [![Backend Skills](https://skillicons.dev/icons?i=laravel,nodejs,postgres,redis,firebase&theme=dark)](https://skillicons.dev)
 
 ### Frontend
