@@ -39,13 +39,13 @@ now focused on system architecture, DevOps tooling, and scalable web solutions.
 [![](https://skillicons.dev/icons?i=ubuntu,debian,bash,c,assembly&theme=dark&perline=6)](https://skillicons.dev)
 
 ### DevOps & Infrastructure
-[![](https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,ansible,terraform,grafana,prometheus,argocd,portainer,proxmox&theme=dark&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,terraform,grafana,prometheus,argocd,portainer,proxmox&theme=dark&perline=6)](https://skillicons.dev)
 
 ### Backend & Data
-[![](https://skillicons.dev/icons?i=laravel,nodejs,php,expressjs,nestjs,graphql,mysql,redis,mongodb,firebase,elasticsearch,kafka,prisma&theme=dark&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=laravel,nodejs,php,expressjs,nestjs,graphql,mysql,redis,mongodb,firebase,elasticsearch,prisma&theme=dark&perline=6)](https://skillicons.dev)
 
 ### Frontend
-[![](https://skillicons.dev/icons?i=react,vuejs,nextjs,nuxtjs,svelte,astro,typescript,javascript,tailwindcss,sass,vite&theme=dark&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,vuejs,nextjs,nuxtjs,svelte,astro,typescript,tailwindcss,sass,vite&theme=dark&perline=6)](https://skillicons.dev)
 
 <br/>
 
