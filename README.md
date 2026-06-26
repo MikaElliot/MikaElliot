@@ -27,7 +27,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=github-actions&logoColor=2088FF)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=4EAA25)
-![NASM](https://img.shields.io/badge/x86--64_NASM-0d1117?style=flat-square&logoColor=ffffff)
+![NASM](https://img.shields.io/badge/NASM-0d1117?style=flat-square&logoColor=ffffff)
 
 ### Backend & Data
 
@@ -44,13 +44,7 @@
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vue.js&logoColor=42D392)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
-
-### Tooling & Design
-
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
 
 ---
 
@@ -79,14 +73,12 @@ Then I build it, automate it, and ship it.
 
 ### A few things about me
 
-```yaml
 name:     Mika Elliot Ramiandrarivo
 role:     Fullstack Developer · System Developer · DevOps
 base:     Madagascar 🌍
 bg:       Networks & Telecom → Web → Systems
 goal:     Launch my own startup
 quote:    "Bugs are closed doors — knowledge is the key, and programming is the castle that holds them all."
-```
 
 ---
 
