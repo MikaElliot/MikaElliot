@@ -38,24 +38,11 @@ now focused on system architecture, DevOps tooling, and scalable web solutions.
 
 ---
 
-### System & Infrastructure
+**Already explored**
+![](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,c,assembly,ubuntu,debian,docker,githubactions,nginx,git,laravel,nodejs,php,expressjs,mysql,mariadb,redis,firebase,postgresql,react,vuejs,nextjs,nuxtjs,typescript,javascript,tailwindcss,html,css,sass,vite,figma,github,vscode,postman,npm&titles=true&theme=dark&perline=5)
 
-[![System Skills](https://skillicons.dev/icons?i=linux,docker,nginx,bash&theme=dark)](https://skillicons.dev)
-
-### Backend & Data
-
-### Devops tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,&perline=3)
-
-[![Backend Skills](https://skillicons.dev/icons?i=laravel,nodejs,postgres,redis,firebase&theme=dark)](https://skillicons.dev)
-
-### Frontend
-
-[![Frontend Skills](https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind&theme=dark)](https://skillicons.dev)
-
-### Tooling & Design
-
-[![Tooling Skills](https://skillicons.dev/icons?i=figma,git,vite&theme=dark)](https://skillicons.dev)
+**Exploring / next**
+![](https://go-skill-icons.vercel.app/api/icons?i=rust,kubernetes,ansible,terraform,proxmox,portainer,grafana,prometheus,argocd,nestjs,graphql,kafka,elasticsearch,mongodb,prisma,fastapi,svelte,astro,neovim,datadog&titles=true&theme=dark&perline=5)
 
 ---
 
