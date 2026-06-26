@@ -22,33 +22,23 @@
 
 ### System & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=github-actions&logoColor=2088FF)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=4EAA25)
-![NASM](https://img.shields.io/badge/NASM-0d1117?style=flat-square&logoColor=ffffff)
+[![System Skills](https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,bash&theme=light)](https://skillicons.dev)
 
 ### Backend & Data
 
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=C0765A)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+[![Backend Skills](https://skillicons.dev/icons?i=laravel,nodejs,postgres,mariadb,redis,firebase&theme=light)](https://skillicons.dev)
 
 ### Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3B82F6)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vue.js&logoColor=42D392)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+[![Frontend Skills](https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind&theme=light)](https://skillicons.dev)
+
+### Tooling & Design
+
+[![Tooling Skills](https://skillicons.dev/icons?i=figma,git,vite&theme=light)](https://skillicons.dev)
 
 ---
 
-</br>
+<br/>
 
 ### How I work
 
@@ -58,7 +48,7 @@ Before touching the keyboard: what does the architecture actually need? What bre
 
 Then I build it, automate it, and ship it.
 
-</br>
+<br/>
 
 ### Let's Connect
 
@@ -73,14 +63,34 @@ Then I build it, automate it, and ship it.
 
 ### A few things about me
 
-name:     Mika Elliot Ramiandrarivo
-role:     Fullstack Developer · System Developer · DevOps
-base:     Madagascar 🌍
-bg:       Networks & Telecom → Web → Systems
-goal:     Launch my own startup
-quote:    "Bugs are closed doors — knowledge is the key, and programming is the castle that holds them all."
+<table>
+  <tr>
+    <td align="right"><b>name</b></td>
+    <td>Mika Elliot Ramiandrarivo</td>
+  </tr>
+  <tr>
+    <td align="right"><b>role</b></td>
+    <td>Fullstack Developer · System Developer · DevOps</td>
+  </tr>
+  <tr>
+    <td align="right"><b>base</b></td>
+    <td>Madagascar 🌍</td>
+  </tr>
+  <tr>
+    <td align="right"><b>background</b></td>
+    <td>Networks & Telecom → Web → Systems</td>
+  </tr>
+  <tr>
+    <td align="right"><b>goal</b></td>
+    <td>Launch my own startup</td>
+  </tr>
+  <tr>
+    <td align="right"><b>quote</b></td>
+    <td><i>"Bugs are closed doors — knowledge is the key,<br/>and programming is the castle that holds them all."</i></td>
+  </tr>
+</table>
 
----
+<br/>
 
 ![Role](https://img.shields.io/badge/System_Dev-&_DevOps-0d1117?style=flat-square)
 ![Stack](https://img.shields.io/badge/Fullstack-Laravel_·_React-0d1117?style=flat-square)
