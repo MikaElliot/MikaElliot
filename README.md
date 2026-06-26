@@ -1,5 +1,4 @@
 ---
-**`> whoami`**
 <div align="left">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=header&text=mika-elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=55&desc=System%20Developer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Fullstack&descSize=13&descAlignY=80&descColor=8b949e)
