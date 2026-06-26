@@ -36,7 +36,7 @@ now focused on system architecture, DevOps tooling, and scalable web solutions.
 <div>
 
 ### System & Low-level
-[![](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,c,assembly&theme=dark&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ubuntu,debian,bash,c,assembly&theme=dark&perline=6)](https://skillicons.dev)
 
 ### DevOps & Infrastructure
 [![](https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,ansible,terraform,grafana,prometheus,argocd,portainer,proxmox&theme=dark&perline=6)](https://skillicons.dev)
@@ -47,8 +47,6 @@ now focused on system architecture, DevOps tooling, and scalable web solutions.
 ### Frontend
 [![](https://skillicons.dev/icons?i=react,vuejs,nextjs,nuxtjs,svelte,astro,typescript,javascript,tailwindcss,html,css,sass,vite&theme=dark&perline=6)](https://skillicons.dev)
 
-### Tooling & Design
-[![](https://skillicons.dev/icons?i=git,github,vscode,neovim,figma,postman,npm,datadog&theme=dark&perline=6)](https://skillicons.dev)
 <br/>
 
 ---
