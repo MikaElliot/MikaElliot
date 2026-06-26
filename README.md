@@ -26,7 +26,7 @@
 
 ### Backend & Data
 
-[![Backend Skills](https://skillicons.dev/icons?i=laravel,nodejs,postgres,mariadb,redis,firebase&theme=dark)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=laravel,nodejs,postgres,redis,firebase&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 
@@ -58,41 +58,6 @@ Then I build it, automate it, and ship it.
 [![Facebook](https://img.shields.io/badge/Facebook-Mika%20Ramiandrarivo-0d1117?style=flat-square&logo=facebook&logoColor=1877F2)](https://web.facebook.com/mika.ramiandrarivo)
 
 ---
-
-<div align="center">
-
-### A few things about me
-
-```
-<table>
-  <tr>
-    <td align="right"><b>name</b></td>
-    <td>Mika Elliot Ramiandrarivo</td>
-  </tr>
-  <tr>
-    <td align="right"><b>role</b></td>
-    <td>Fullstack Developer · System Developer · DevOps</td>
-  </tr>
-  <tr>
-    <td align="right"><b>base</b></td>
-    <td>Madagascar 🌍</td>
-  </tr>
-  <tr>
-    <td align="right"><b>background</b></td>
-    <td>Networks & Telecom → Web → Systems</td>
-  </tr>
-  <tr>
-    <td align="right"><b>goal</b></td>
-    <td>Launch my own startup</td>
-  </tr>
-  <tr>
-    <td align="right"><b>quote</b></td>
-    <td><i>"Bugs are closed doors — knowledge is the key,<br/>and programming is the castle that holds them all."</i></td>
-  </tr>
-</table>
-```
-
-<br/>
 
 ![Role](https://img.shields.io/badge/System_Dev-&_DevOps-0d1117?style=flat-square)
 ![Stack](https://img.shields.io/badge/Fullstack-Laravel_·_React-0d1117?style=flat-square)
