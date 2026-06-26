@@ -25,7 +25,7 @@
 
 ---
 
-**`> Building systems from assembly to production pipelines`**
+**`> Building systems and scalables web solutions`**
 
 Self-taught developer based in Madagascar — Networks & Telecom background,
 now focused on system architecture, DevOps tooling, and scalable web solutions.
