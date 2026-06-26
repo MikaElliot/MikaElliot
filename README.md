@@ -1,7 +1,20 @@
 ---
+**`> whoami`**
 <div align="left">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=header&text=mika-elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=55&desc=System%20Developer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Fullstack&descSize=13&descAlignY=80&descColor=8b949e)
+
+<div align="center">
+
+███╗   ███╗██╗██╗  ██╗ █████╗     ███████╗██╗     ██╗     ██╗ ██████╗ ████████╗
+████╗ ████║██║██║ ██╔╝██╔══██╗    ██╔════╝██║     ██║     ██║██╔═══██╗╚══██╔══╝
+██╔████╔██║██║█████╔╝ ███████║    █████╗  ██║     ██║     ██║██║   ██║   ██║
+██║╚██╔╝██║██║██╔═██╗ ██╔══██║    ██╔══╝  ██║     ██║     ██║██║   ██║   ██║
+██║ ╚═╝ ██║██║██║  ██╗██║  ██║    ███████╗███████╗███████╗██║╚██████╔╝   ██║
+╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=13&center=true&width=500&height=24&duration=2200&pause=900&lines=Booting+system...;Mounting+volumes...;Pipeline+running...;Deployed.&color=8AE234&repeat=true" />
+</div>
 
 ![System Developer](https://img.shields.io/badge/System_Developer-a78bfa?style=flat-square&logoColor=white&logo=linux)
 ![DevOps](https://img.shields.io/badge/DevOps-34d399?style=flat-square&logoColor=white&logo=docker)
@@ -20,22 +33,7 @@ now focused on system architecture, DevOps tooling, and scalable web solutions.
 <div>
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=DM+Mono&size=13&center=true&width=440&height=30&duration=2500&pause=1000&lines=System+Developer+%E2%80%A2+DevOps+%E2%80%A2+Fullstack&color=8A8A9A&repeat=false" /> -->
 
-**`> whoami`**
-
-<div align="center">
-
-███╗   ███╗██╗██╗  ██╗ █████╗     ███████╗██╗     ██╗     ██╗ ██████╗ ████████╗
-████╗ ████║██║██║ ██╔╝██╔══██╗    ██╔════╝██║     ██║     ██║██╔═══██╗╚══██╔══╝
-██╔████╔██║██║█████╔╝ ███████║    █████╗  ██║     ██║     ██║██║   ██║   ██║
-██║╚██╔╝██║██║██╔═██╗ ██╔══██║    ██╔══╝  ██║     ██║     ██║██║   ██║   ██║
-██║ ╚═╝ ██║██║██║  ██╗██║  ██║    ███████╗███████╗███████╗██║╚██████╔╝   ██║
-╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=13&center=true&width=500&height=24&duration=2200&pause=900&lines=Booting+system...;Mounting+volumes...;Pipeline+running...;Deployed.&color=8AE234&repeat=true" />
-
 ---
-
-</div>
 
 ### System & Infrastructure
 
