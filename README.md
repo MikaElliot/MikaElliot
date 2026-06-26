@@ -34,19 +34,24 @@ now focused on system architecture, DevOps tooling, and scalable web solutions.
 ---
 
 <div>
-<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=DM+Mono&size=13&center=true&width=440&height=30&duration=2500&pause=1000&lines=System+Developer+%E2%80%A2+DevOps+%E2%80%A2+Fullstack&color=8A8A9A&repeat=false" /> -->
 
----
+### System & Low-level
+[![](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,c,assembly&theme=dark&perline=6)](https://skillicons.dev)
 
-**Already explored**
-![](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,c,assembly,ubuntu,debian,docker,githubactions,nginx,git,laravel,nodejs,php,expressjs,mysql,mariadb,redis,firebase,postgresql,react,vuejs,nextjs,nuxtjs,typescript,javascript,tailwindcss,html,css,sass,vite,figma,github,vscode,postman,npm&titles=true&theme=dark&perline=5)
+### DevOps & Infrastructure
+[![](https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,ansible,terraform,grafana,prometheus,argocd,portainer,proxmox&theme=dark&perline=6)](https://skillicons.dev)
 
-**Exploring / next**
-![](https://go-skill-icons.vercel.app/api/icons?i=rust,kubernetes,ansible,terraform,proxmox,portainer,grafana,prometheus,argocd,nestjs,graphql,kafka,elasticsearch,mongodb,prisma,fastapi,svelte,astro,neovim,datadog&titles=true&theme=dark&perline=5)
+### Backend & Data
+[![](https://skillicons.dev/icons?i=laravel,nodejs,php,expressjs,nestjs,graphql,mysql,mariadb,postgresql,redis,mongodb,firebase,elasticsearch,kafka,prisma&theme=dark&perline=6)](https://skillicons.dev)
 
----
+### Frontend
+[![](https://skillicons.dev/icons?i=react,vuejs,nextjs,nuxtjs,svelte,astro,typescript,javascript,tailwindcss,html,css,sass,vite&theme=dark&perline=6)](https://skillicons.dev)
 
+### Tooling & Design
+[![](https://skillicons.dev/icons?i=git,github,vscode,neovim,figma,postman,npm,datadog&theme=dark&perline=6)](https://skillicons.dev)
 <br/>
+
+---
 
 ### How I work
 
