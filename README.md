@@ -1,14 +1,14 @@
 ---
 <div align="left">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=header&text=mika-elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=65)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=140&section=header&text=mika-elliot&fontSize=36&fontColor=f0f6fc&fontAlignY=65)
 
 <div align="left">
 
-![System Developer](https://img.shields.io/badge/System_Developer-0d1f35?style=for-the-badge&logoColor=60a5fa&logo=linux&color=0d1f35)
-![DevOps](https://img.shields.io/badge/DevOps-0d1f35?style=for-the-badge&logoColor=60a5fa&logo=docker&color=0d1f35)
-![Fullstack](https://img.shields.io/badge/Fullstack-0d1f35?style=for-the-badge&logoColor=60a5fa&logo=typescript&color=0d1f35)
-![Open to work](https://img.shields.io/badge/Open_to_work-0d1f35?style=for-the-badge&logoColor=60a5fa&color=0d1f35)
+![System Developer](https://img.shields.io/badge/System_Developer-0aff9d?style=flat-square&logoColor=0d1117&logo=linux&labelColor=0aff9d&color=0aff9d)
+![DevOps](https://img.shields.io/badge/DevOps-0aff9d?style=flat-square&logoColor=0d1117&logo=docker&labelColor=0aff9d&color=0aff9d)
+![Fullstack](https://img.shields.io/badge/Fullstack-0aff9d?style=flat-square&logoColor=0d1117&logo=typescript&labelColor=0aff9d&color=0aff9d)
+![Open to work](https://img.shields.io/badge/Open_to_work-0aff9d?style=flat-square&logoColor=0d1117&labelColor=0aff9d&color=0aff9d)
 
 </div>
 
