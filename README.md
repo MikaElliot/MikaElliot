@@ -42,7 +42,7 @@ now focused on system architecture, DevOps tooling, and scalable web solutions.
 [![](https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,ansible,terraform,grafana,prometheus,argocd,portainer,proxmox&theme=dark&perline=6)](https://skillicons.dev)
 
 ### Backend & Data
-[![](https://skillicons.dev/icons?i=laravel,nodejs,php,expressjs,nestjs,graphql,mysql,mariadb,postgresql,redis,mongodb,firebase,elasticsearch,kafka,prisma&theme=dark&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=laravel,nodejs,php,expressjs,nestjs,graphql,mysql,postgresql,redis,mongodb,firebase,elasticsearch,kafka,prisma&theme=dark&perline=6)](https://skillicons.dev)
 
 ### Frontend
 [![](https://skillicons.dev/icons?i=react,vuejs,nextjs,nuxtjs,svelte,astro,typescript,javascript,tailwindcss,html,css,sass,vite&theme=dark&perline=6)](https://skillicons.dev)
