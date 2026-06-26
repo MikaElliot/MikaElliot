@@ -22,7 +22,7 @@
 
 ### System & Infrastructure
 
-[![System Skills](https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,bash&theme=dark)](https://skillicons.dev)
+[![System Skills](https://skillicons.dev/icons?i=linux,docker,nginx,bash&theme=dark)](https://skillicons.dev)
 
 ### Backend & Data
 
@@ -63,6 +63,7 @@ Then I build it, automate it, and ship it.
 
 ### A few things about me
 
+```
 <table>
   <tr>
     <td align="right"><b>name</b></td>
@@ -89,6 +90,7 @@ Then I build it, automate it, and ship it.
     <td><i>"Bugs are closed doors — knowledge is the key,<br/>and programming is the castle that holds them all."</i></td>
   </tr>
 </table>
+```
 
 <br/>
 
